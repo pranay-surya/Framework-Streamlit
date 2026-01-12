@@ -1,6 +1,6 @@
 # Streamlit Web Application 
 
-##  Project Overview
+## Overview
 This repo is a **Streamlit-based web application** designed to showcase data analysis, visualization, and machine learning functionality using Python.  
 The application provides an interactive interface that allows users to explore data and results easily through a web browser.
 
